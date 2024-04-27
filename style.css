@@ -961,4 +961,7 @@ section:nth-child(odd) .animate.scroll {
         width: 0;
     }
 }
+@media (max-width: 768px) {
+    /* CSS rules for screens up to 768px wide */
+}
 
